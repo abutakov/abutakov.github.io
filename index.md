@@ -1,5 +1,5 @@
 
-![Logo](https://github.com/abutakov/abutakov.github.io/blob/master/images/logo.png?raw=true)
+                       ![Logo](https://github.com/abutakov/abutakov.github.io/blob/master/images/logo.png?raw=true)
 
 ### Welcome to My GitHub Page
 
