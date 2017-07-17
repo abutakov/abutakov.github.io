@@ -35,13 +35,4 @@ During my studies, I had the opportunity to hone my skills with tools, such as: 
 <dd>(617) 952-1263</dd>
 </dl>
 
-<dl class="dl-horizontal">
-        <dt>Name</dt>
-        <dd>
-          Oleksii Butakov
-        </dd>
-        <dt>Location</dt>
-        <dd>
-          Mountain View, CA
-        </dd>
-</dl>
+
