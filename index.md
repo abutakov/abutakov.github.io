@@ -1,5 +1,5 @@
 
-                       ![Logo](https://github.com/abutakov/abutakov.github.io/blob/master/images/logo.png?raw=true)
+![Logo](https://github.com/abutakov/abutakov.github.io/blob/master/images/logo.png?raw=true)
 
 ### Welcome to My GitHub Page
 
@@ -33,4 +33,15 @@ During my studies, I had the opportunity to hone my skills with tools, such as: 
 <dd>butakov.aleksey@gmail.com</dd>
 <dt>Phone</dt>
 <dd>(617) 952-1263</dd>
+</dl>
+
+<dl class="dl-horizontal">
+        <dt>Name</dt>
+        <dd>
+          Oleksii Butakov
+        </dd>
+        <dt>Location</dt>
+        <dd>
+          Mountain View, CA
+        </dd>
 </dl>
