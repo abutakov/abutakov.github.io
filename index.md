@@ -1,38 +1,35 @@
-# [Test Link](https://en.wikipedia.org/wiki/Area_51) 
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/abutakov/butakov.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![](https://abutakov.github.io/images/logo.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Welcome to my GitHub page
 
-### Markdown
+### About Me 
+Hello. My name is Oleksii Butakov. I'm recent Community College high honors grad of Bunker Hill Community College. Currently, I’m looking for an entry-level position as a Software Engineer where I can put my talent and knowledge into developing high quality software.  During my studies, I had the opportunity to hone my skills with tools, such as: C#, C++, MySQL, HTML/CSS/JavaScript, Java and XML that would equip me to contribute to your team while learning first-hand from recognized professionals. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Skills 
+* Languages:
+  - C++
+  - Java 
+  - C# 
+  - Python
+  - MySQL
+* IDEs
+  - Microsoft Visual Studio 
+  - Netbeans 
+  - IDLE
+* Operation Systems: 
+  - Windows
+  - Mac OS 
 
-```markdown
-Syntax highlighted code block
+### Contact
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/abutakov/butakov.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<dl>
+<dt>Name</dt>
+<dd>Oleksii Butakov</dd>
+<dt>Location</dt>
+<dd>Mountain View, CA</dd>
+<dt>Email</dt>
+<dd>butakov.aleksey@gmail.com</dd>
+<dt>Phone</dt>
+<dd>(617) 952-1263</dd>
+</dl>
