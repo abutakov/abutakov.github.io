@@ -1,11 +1,11 @@
 
 ![Logo](https://github.com/abutakov/abutakov.github.io/blob/master/images/logo.png?raw=true)
 
-### Welcome to [My GitHub Page](https://github.com/abutakov).
+### Welcome to [My GitHub Page](https://github.com/abutakov)
 
 ## About Me 
-Hello. My name is Oleksii Butakov. I'm recent honors grad of Bunker Hill Community College, the best community college of Massachusetts. Currently, I’m looking for an entry-level position as a Software Engineer where I can put my talent and knowledge into developing high quality software. 
-During my studies, I had the opportunity to hone my skills with tools, such as: C#, C++, MySQL, HTML/CSS/JavaScript, Java and XML that would equip me to contribute to your team while learning first-hand from recognized professionals. 
+Hello. My name is Oleksii Butakov. I'm recent high honors grad of Bunker Hill Community College, the best community college of Massachusetts. Currently, I’m looking for an entry-level position as a Software Engineer where I can put my talent and knowledge into developing high quality software. 
+During my studies, I had the opportunity to hone my skills with tools, such as: C#, C++, Java, MySQL, HTML/CSS/JavaScript, Android Application Development and XML that would equip me to contribute to your team while quickly learning "on the fly".
 
 ## Skills 
 * Languages:
@@ -21,6 +21,15 @@ During my studies, I had the opportunity to hone my skills with tools, such as: 
 * Operation Systems: 
   - Windows
   - Mac OS 
+
+## Projects 
+
+* This program was made in the purpose to make my life easier and to automate the process of calculating time I spent working.
+  - [Time Calculator](https://github.com/abutakov/TimeWorkedCalculator---1.1)
+* Midterm Project from "OOPL for Java Programmers" Class. Program simulates basic ATM's functionality
+  - [Big Buck Bank](https://github.com/abutakov/Big-Bucks-Bank)
+* Final project for Advanced Java Programming class that I was part of. Graphical multiplayer board game for 4 people.
+  - [Settlers of Catan](https://github.com/Amali24/SettlersOfCatan)
 
 ### Contact
 
