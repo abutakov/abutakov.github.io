@@ -1,4 +1,4 @@
 theme: jekyll-theme-hacker
 title: abutakov
 desctiption: test 
-url: https://github.com/abutakov
+baseurl: https://github.com/abutakov
