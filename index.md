@@ -29,7 +29,7 @@ During my studies, I had the opportunity to hone my skills with tools, such as: 
 * **Time Calculator** - This program was made in the purpose to make my life easier and to automate the process of calculating time I spent working.
   - [Time Calculator](https://github.com/abutakov/TimeWorkedCalculator---1.1)
 * **Big Bucks Bank ATM** - Midterm Project from "OOPL for Java Programmers" Class. Program simulates basic ATM's functionality
-  - [Big Buck Bank](https://github.com/abutakov/Big-Bucks-Bank)
+  - [Big Bucks Bank](https://github.com/abutakov/Big-Bucks-Bank)
 * **Settlers of Catan** - Final group project for Advanced Java Programming class. Graphical multiplayer boardgame for 4 people.
   - [Settlers of Catan](https://github.com/Amali24/SettlersOfCatan)
 * **MyGPA** - Final project for "C++ Programming (CIT-237)" class. Program takes my college transcript text as an input and provides some  functionality (shows trancript, remaining classes for graduation, current GPA, GPA upon graduation, etc.) 
