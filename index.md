@@ -6,7 +6,7 @@
 
 
 ## About Me 
-Hello. My name is Oleksii Butakov. I'm recent high honors grad of Bunker Hill Community College, the best community college of Massachusetts. Currently, I’m looking for an entry-level position as a Software Engineer where I can put my talent and knowledge into developing high quality software. 
+Hello. My name is Oleksii Butakov. I'm recent grad of Bunker Hill Community College (High Honors), the best community college of Massachusetts. Currently, I’m looking for an entry-level position as a Software Engineer where I can put my talent and knowledge into developing high quality software. 
 During my studies, I had the opportunity to hone my skills with tools, such as: C#, C++, Java, MySQL, HTML/CSS/JavaScript, Android Application Development and XML that would equip me to contribute to your team while quickly learning "on the fly".
 
 ## Skills 
