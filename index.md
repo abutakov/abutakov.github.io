@@ -34,6 +34,8 @@ During my studies, I had the opportunity to hone my skills with tools, such as: 
   - [MyGPA](https://github.com/abutakov/MyGPA)
 * **Blackjack** - Final project for the Python part of the "OOPL for Java Programmers" class. Simple graphical version of the Blackjack game
   - [Blackjack](https://github.com/abutakov/Blackjack-TkInter)
+* **Palindrome** - C++ console application that they if provided word is a palindrome
+  - [Palindrome](https://github.com/abutakov/Palindrome)
 
 ### Contact
 
