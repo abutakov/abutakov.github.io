@@ -1,9 +1,9 @@
 
 
 ![Logo](https://github.com/abutakov/abutakov.github.io/blob/master/images/logo.png?raw=true)
-footnote[^2].
+
 ### Welcome to [My GitHub Page](https://github.com/abutakov)
-footnote[^2].
+
 
 ## About Me 
 Hello. My name is Oleksii Butakov. I'm recent high honors grad of Bunker Hill Community College, the best community college of Massachusetts. Currently, I’m looking for an entry-level position as a Software Engineer where I can put my talent and knowledge into developing high quality software. 
