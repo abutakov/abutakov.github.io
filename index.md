@@ -1,7 +1,7 @@
 
-![Logo](https://github.com/abutakov/abutakov.github.io/blob/master/images/logo.png?raw=true)
 
-### Welcome to [My GitHub Page](https://github.com/abutakov)
+
+### Welcome to [My GitHub Page](https://github.com/abutakov)  ![Logo](https://github.com/abutakov/abutakov.github.io/blob/master/images/logo.png?raw=true)
 
 ## About Me 
 Hello. My name is Oleksii Butakov. I'm recent high honors grad of Bunker Hill Community College, the best community college of Massachusetts. Currently, I’m looking for an entry-level position as a Software Engineer where I can put my talent and knowledge into developing high quality software. 
@@ -14,7 +14,7 @@ During my studies, I had the opportunity to hone my skills with tools, such as: 
   - C# 
   - Python
   - MySQL
-* IDEs
+* IDEs:
   - Microsoft Visual Studio 
   - Netbeans 
   - IDLE
@@ -28,13 +28,13 @@ During my studies, I had the opportunity to hone my skills with tools, such as: 
   - [Time Calculator](https://github.com/abutakov/TimeWorkedCalculator---1.1)
 * **Big Bucks Bank ATM** - Midterm Project from "OOPL for Java Programmers" Class. Program simulates basic ATM's functionality
   - [Big Buck Bank](https://github.com/abutakov/Big-Bucks-Bank)
-* **Settlers of Catan** - Final project for Advanced Java Programming class that I was part of. Graphical multiplayer boardgame for 4 people.
+* **Settlers of Catan** - Final group project for Advanced Java Programming class. Graphical multiplayer boardgame for 4 people.
   - [Settlers of Catan](https://github.com/Amali24/SettlersOfCatan)
-* **MyGPA** - Final project for "C++ Programming (CIT-237)" class. Program takes my college transcript text as an input and provides some  functionality (Show trancript, remaining classes for graduation, current GPA, GPA upon graduation, etc.) 
+* **MyGPA** - Final project for "C++ Programming (CIT-237)" class. Program takes my college transcript text as an input and provides some  functionality (shows trancript, remaining classes for graduation, current GPA, GPA upon graduation, etc.) 
   - [MyGPA](https://github.com/abutakov/MyGPA)
 * **Blackjack** - Final project for the Python part of the "OOPL for Java Programmers" class. Simple graphical version of the Blackjack game
   - [Blackjack](https://github.com/abutakov/Blackjack-TkInter)
-* **Palindrome** - C++ console application that they if provided word is a palindrome
+* **Palindrome** - C++ console application that tells if provided word is a palindrome
   - [Palindrome](https://github.com/abutakov/Palindrome)
 
 ### Contact
