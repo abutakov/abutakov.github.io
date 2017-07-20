@@ -38,6 +38,7 @@ During my studies, I had the opportunity to hone my skills with tools, such as: 
   - [Blackjack](https://github.com/abutakov/Blackjack-TkInter)
 * **Palindrome** - C++ console application that tells if provided word is a palindrome
   - [Palindrome](https://github.com/abutakov/Palindrome)
+* [**More...**](https://github.com/abutakov)
 
 ### Contact
 
