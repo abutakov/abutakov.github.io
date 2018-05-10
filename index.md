@@ -1,13 +1,12 @@
 
 
-![Logo](https://github.com/abutakov/abutakov.github.io/blob/master/images/logo.png?raw=true)
 
 ### Welcome to [My GitHub Page](https://github.com/abutakov)
 
 
 ## About Me 
 Hello. My name is Alex Butakov. I'm recent grad of Bunker Hill Community College.
-During my studies, I had the opportunity to excersice my skills with tools, such as: C#, C++, Java, MySQL, HTML, CSS, JavaScript, Android Application Development and XML that would equip me to contribute to your team while quickly learning "on the fly".
+During my studies, I had the opportunity to excercise my skills with such tools as: C#, C++, Java, MySQL, HTML, CSS, JavaScript, Android Application Development and XML.
 
 ## Skills 
 * Languages:
@@ -26,7 +25,7 @@ During my studies, I had the opportunity to excersice my skills with tools, such
 
 ## Projects 
 
-* **Time Calculator** - This program was made in the purpose to make my life easier and to automate the process of calculating time I spent working.
+* **Time Calculator** - The goal of this program is make my life easier and to automate the process of calculating time I spent working.
   - [Time Calculator](https://github.com/abutakov/TimeWorkedCalculator---1.1)
 * **Big Bucks Bank ATM** - Midterm Project from "OOPL for Java Programmers" Class. Program simulates basic ATM's functionality
   - [Big Bucks Bank](https://github.com/abutakov/Big-Bucks-Bank)
@@ -36,8 +35,6 @@ During my studies, I had the opportunity to excersice my skills with tools, such
   - [MyGPA](https://github.com/abutakov/MyGPA)
 * **Blackjack** - Final project for the Python part of the "OOPL for Java Programmers" class. Simple graphical version of the Blackjack game
   - [Blackjack](https://github.com/abutakov/Blackjack-TkInter)
-* **Palindrome** - C++ console application that tells if provided word is a palindrome
-  - [Palindrome](https://github.com/abutakov/Palindrome)
 * [**More...**](https://github.com/abutakov)
 
 ### Contact
